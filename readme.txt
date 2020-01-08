@@ -1,0 +1,1 @@
+admin giriş---------- ıd =admin pw=123

@@ -1,0 +1,152 @@
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Siber-5\source\repos\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Karataşş\Downloads\Compressed\drive-download-20191217T183903Z-001\OtelRezervasyonPrSON\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\Desktop\OtelRezervasyonPr\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Karataşş\Desktop\drive-download-20191218T135728Z-001\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Siber-5\Desktop\19.12.gece\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\pc\Desktop\19.12sabahh\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\Wissen\Desktop\proje\19.12sabahhgexe\19.12sabahhgexe\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe.config
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.exe
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\OtelRezervasyonPr.pdb
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AdminSayfası.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.AnaEkran.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Fatura.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.LoginEkranı.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OdemeEkranı.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.OtelInceleme.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.Properties.Resources.resources
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.csproj.CopyComplete
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.exe
+C:\Users\pc\Desktop\OtelRezervasyonPrNurullah KArataş\OtelRezervasyonPr\OtelRezervasyonPr\obj\Debug\OtelRezervasyonPr.pdb
