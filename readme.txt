@@ -1,1 +1,1 @@
-admin giriş---------- ıd =admin pw=123
+admin giris ID =admin pw=123
